@@ -1,6 +1,6 @@
 # 01--Homework-Challenge
-<!-- -->
-### Output
-![Screenshot of Live Page](https://github.com/rachelmcallister1/01--Homework-Challenge/Screenshot.png)
+
 ### Submission Details
-- **Submitted by Rachel McAllister
+![Screenshot of Live Page]
+(./assets/images/Screenshot.png)
+- Submitted by Rachel McAllister
