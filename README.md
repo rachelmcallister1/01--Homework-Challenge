@@ -2,5 +2,5 @@
 
 ### Submission Details
 ![Screenshot of Live Page]
-(./assets/images/Screenshot.png)
+<img src= "(./assets/images/Screenshot.png)"
 - Submitted by Rachel McAllister
